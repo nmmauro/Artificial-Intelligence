@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-AI Projects
+CS440 Projects
