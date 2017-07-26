@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( CS585_lab1 )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( CS585_lab1 source.cpp )
+target_link_libraries( CS585_lab1 ${OpenCV_LIBS} )

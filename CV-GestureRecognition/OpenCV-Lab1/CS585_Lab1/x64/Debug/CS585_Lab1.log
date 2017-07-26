@@ -1,0 +1,10 @@
+﻿Build started 4/1/2017 6:13:38 PM.
+     1>Project "Z:\Downloads\OpenCV-Lab1\CS585_Lab1\CS585_Lab1.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\Downloads\OpenCV-Lab1\x64\Debug\CS585_Lab1.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x64\vc12\lib opencv_world310d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Z:\Downloads\OpenCV-Lab1\x64\Debug\CS585_Lab1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\Downloads\OpenCV-Lab1\x64\Debug\CS585_Lab1.lib" /MACHINE:X64 x64\Debug\Source.obj
+         CS585_Lab1.vcxproj -> Z:\Downloads\OpenCV-Lab1\x64\Debug\CS585_Lab1.exe
+     1>Done Building Project "Z:\Downloads\OpenCV-Lab1\CS585_Lab1\CS585_Lab1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.45
